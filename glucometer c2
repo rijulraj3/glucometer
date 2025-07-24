@@ -1,0 +1,17 @@
+[
+    {
+        "patient_id": "P001",
+        "glucose_level": 85.0,
+        "unit": "mg/dL",
+        "status": "Normal",
+        "timestamp": "2025-07-24 01:44:00"
+    },
+    {
+        "patient_id": "P002",
+        "glucose_level": 130.0,
+        "unit": "mg/dL",
+        "status": "Diabetes",
+        "timestamp": "2025-07-24 01:45:00"
+    }
+]
+
